@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#i$)n*@&-*+#xq=_r8m4hp49n8#si19p@+(8$kzq$zs)k7f55z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["cicd-class-repository-djangoproject.vercel.app", "localhost", "127.0.0.1"]
 
 
 # Application definition
