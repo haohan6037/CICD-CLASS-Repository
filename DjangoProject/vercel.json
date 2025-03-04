@@ -16,7 +16,7 @@
         "Access-Control-Allow-Methods": "GET, POST, OPTIONS, DELETE, PUT"
       }
     },
-    {g
+    {
       "src": "/(.*)",
       "dest": "MyNoteProject/wsgi.py"
     }
