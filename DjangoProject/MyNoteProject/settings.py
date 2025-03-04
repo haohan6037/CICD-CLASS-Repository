@@ -74,8 +74,8 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'MyNoteProject.wsgi.application'
-
+# WSGI_APPLICATION = 'MyNoteProject.wsgi.application'
+WSGI_APPLICATION = 'MyNoteProject.wsgi.app'
 
 # Database
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
